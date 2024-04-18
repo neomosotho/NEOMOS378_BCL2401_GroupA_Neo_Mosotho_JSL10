@@ -3,16 +3,21 @@
 The Escape Vanilla JS Challenge is an interactive web-based project focusing on debugging skills, problem-solving, and the concept of abstraction. You will navigate through three themed "rooms," each presenting a unique challenge that requires them to debug and correct given JavaScript code to proceed. This adventure is themed around escaping the confines of Vanilla JavaScript to advance towards learning React.
 
 ## Overview:
+In this project, I was required to use my skills in debugging and problem-solving. I must say the challenge was quite easy, I managed to use the knowledge that I've gathered while studying JavaScript and I managed to complete it successfully. 
 
+## Techonlogies used:
+HTML
+CSS
+JavaScript
 
-## What You Need to Do:
+## feedback:
+I enjoyed working on this project. Debugging is very nice!
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_10_StudentNo_Classcode_Group_Name-Surname_JSL10
-2. Open the cloned project in your code editor.
-3. Code your solution for each of the challenges as per the provided instructions.
-4. Commit your changes to your local Git repository with meaningful commit messages.
-5. Push your local Git repository to your GitHub account.
-6. Verify that the changes have been successfully pushed to your GitHub repository.
+## Challenges:
+I experienced a challenge on room2, I had to add an async keyword and I added it on the wrong line of code. But I managed to fix that and now the code is funtional.
+
+## Conclusion:
+In this project I managed to use a different logic in the intersections part, I used a filter.
 
 #### Debugging Tasks
 
@@ -24,17 +29,6 @@ The Escape Vanilla JS Challenge is an interactive web-based project focusing on 
 6. **Adjust the `findMostRecentBook` function to correctly compare dates and find the most recent book.**
 7. **Fix the `findIntersection` function to correctly determine the intersection of two sets.**
 8. **Add the `await` keyword before `new Promise` in `navigateLabyrinth` to ensure the simulation of asynchronous operations works as intended.**
-
-## What You Need to Include:
-
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
-
-## How We'll Assess Your Work:
-
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
 
 
 
